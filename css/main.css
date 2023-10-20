@@ -14,10 +14,6 @@ img {
      font-family: 'Times New Roman';
  }
  
-<<<<<<< Updated upstream
- 
-
-=======
  /*
  .block-left {
      width:50%;height:800px;overflow:auto;float:left;
@@ -33,7 +29,7 @@ img {
      vertical-align: top;
  }
  
->>>>>>> Stashed changes
+
  body {
      background: url(../images/mobilephone.jpg)  no-repeat;
      background-size:cover;
