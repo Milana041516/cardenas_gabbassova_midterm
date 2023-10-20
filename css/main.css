@@ -14,8 +14,26 @@ img {
      font-family: 'Times New Roman';
  }
  
+<<<<<<< Updated upstream
  
 
+=======
+ /*
+ .block-left {
+     width:50%;height:800px;overflow:auto;float:left;
+ }
+ .block-right {
+     width:50%;height:800px;overflow:auto;
+ }
+ */ 
+ 
+ .text-columns {
+     display: inline-block;
+     width: 48%;
+     vertical-align: top;
+ }
+ 
+>>>>>>> Stashed changes
  body {
      background: url(../images/mobilephone.jpg)  no-repeat;
      background-size:cover;
@@ -25,5 +43,4 @@ img {
      font-family: 'Times New Roman';
      font-size: 16px;
  }
- 
  
