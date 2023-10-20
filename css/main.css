@@ -15,12 +15,7 @@ img {
  }
  
  
- .text-columns {
-     display: inline-block;
-     width: 48%;
-     vertical-align: top;
- }
- 
+
  body {
      background: url(../images/mobilephone.jpg)  no-repeat;
      background-size:cover;
