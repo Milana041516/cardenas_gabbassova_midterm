@@ -14,7 +14,21 @@ img {
      font-family: 'Times New Roman';
  }
  
-
+ /*
+ .block-left {
+     width:50%;height:800px;overflow:auto;float:left;
+ }
+ .block-right {
+     width:50%;height:800px;overflow:auto;
+ }
+ */ 
+ 
+ .text-columns {
+     display: inline-block;
+     width: 48%;
+     vertical-align: top;
+ }
+ 
 
  body {
      background: url(../images/mobilephone.jpg)  no-repeat;
@@ -25,5 +39,4 @@ img {
      font-family: 'Times New Roman';
      font-size: 16px;
  }
- 
  
